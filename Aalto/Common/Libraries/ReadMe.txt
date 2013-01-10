@@ -1,0 +1,1 @@
+Common code (e.g. libraries). Basically anything which can be considered a generic / platfrom / component that others might benefit from in their projects.

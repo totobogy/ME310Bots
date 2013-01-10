@@ -1,0 +1,1 @@
+Common code (e.g. libraries) and circuit-lets should go here. Basically anything which can be considered a generic / platfrom / component that others might benefit from in their projects or circuits.
